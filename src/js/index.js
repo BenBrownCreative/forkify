@@ -2,7 +2,7 @@
 
 import Search from './models/Search';
 import Recipe from './models/Recipe';
-import List from './models/List';
+import List from './models/list';
 import Likes from './models/likes';
 import * as searchView from './views/searchView';
 import * as recipeView from './views/recipeView';
